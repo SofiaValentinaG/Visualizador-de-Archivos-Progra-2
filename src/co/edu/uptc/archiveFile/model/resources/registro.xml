@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registro>
+  <archivo>
+    <nombre>sofia</nombre>
+    <ubicacion>C:\Users\USUARIO\Documents\</ubicacion>
+    <tipo>texto</tipo>
+    <fecha>27/10/2026 18:56:44</fecha>
+    <ultimaAccion>Modificado</ultimaAccion>
+    <modificado>true</modificado>
+    <veces>4</veces>
+  </archivo>
+  <archivo>
+    <nombre>archivos.properties</nombre>
+    <ubicacion>src/co/edu/uptc/archiveFile/model/resources/</ubicacion>
+    <tipo>properties</tipo>
+    <fecha>27/10/2026 18:57:05</fecha>
+    <ultimaAccion>Creado</ultimaAccion>
+    <modificado>true</modificado>
+    <veces>1</veces>
+  </archivo>
+</registro>
